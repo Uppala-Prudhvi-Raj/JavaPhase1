@@ -1,4 +1,4 @@
-package com.mphasis.basics;
+package simplilearn.phase1.com;
 
 import java.io.*;
 import java.util.Arrays;
