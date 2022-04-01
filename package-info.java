@@ -1,1 +1,1 @@
-package com.mphasis.basics;
+package simplilearn.phase1.com;
